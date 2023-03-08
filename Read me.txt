@@ -1,0 +1,8 @@
+1. On start up, a promt will pop-up asking user to enter their name (javascript functionality)
+2. The entered name will display on the home page of the website.
+3. Enter on the "contact me" button to send me and email.
+4. On the bottom, my socials are linked with the buttons "facebook", "linkdn" and "instagram". Access them by clicking on them.
+
+-------------------------------------------------------------------------
+Copyright © 2023 Ahmad Ali SZABIST. All rights reserved.
+-------------------------------------------------------------------------
